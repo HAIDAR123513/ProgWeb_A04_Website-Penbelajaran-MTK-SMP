@@ -1,0 +1,10 @@
+.dropdown-item:hover {
+    background-color: silver;
+}
+body
+{
+    background-color: white;
+    font-family: Perpetua;
+    font-size: 18px;
+}
+
